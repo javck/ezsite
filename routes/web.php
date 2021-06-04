@@ -83,3 +83,4 @@ Route::group(['prefix' => 'admin', 'namespace' => '\App\Http\Controllers', 'midd
 //新改動3
 
 //最新功能
+//最新功能2
